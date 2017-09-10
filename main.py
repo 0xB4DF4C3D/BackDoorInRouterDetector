@@ -2,8 +2,8 @@ import CommandGenerator as cg
 import SNMPqueries      as sq
 import PlotlyGrapher    as pg
 import random, time, datetime
-
-CG = cg.CommandGenerator('dongho','sisi9429','9.0.0.1')
+'''
+CG = cg.CommandGenerator('admin','1234','10.0.0.2')
 G = pg.Graph()
 
 traceNames = ['ipInReceives','ipOutRequests','ipInReceives - ipOutRequests']
@@ -19,8 +19,8 @@ for traceName in SP:
     SP.clearStream(traceName)
 
 while True:
-    inPkts  = int(CG.walk('RFC1213-MIB.ipInReceives', sq.accumulateQuery))
-    outPkts = int(CG.walk('RFC1213-MIB.ipOutRequests', sq.accumulateQuery))
+    inPkts  = int(CG.walk('RFC1213-MIB.ipInReceives', sq.accumulate))
+    outPkts = int(CG.walk('RFC1213-MIB.ipOutRequests', sq.accumulate))
 
     #CG.walk('IF-MIB.ifInOctets', sq.printAll)
     #CG.walk('IF-MIB.ifOutOctets', sq.printAll)
@@ -37,7 +37,10 @@ while True:
         yIdx += 1
     
     time.sleep(2)
-    
+    '''
 
 
-
+CG = cg.CommandGenerator('admin','kw123456','10.0.0.2')
+CG.getBulk('IF-MIB.ifDescr', sq.printAll)
+CG.getBulk('IF-MIB.ifSpeed', sq.printAll)
+CG.getBulk('IF-MIB.ifSpeed', sq.accumulateEx([1,2,3]))

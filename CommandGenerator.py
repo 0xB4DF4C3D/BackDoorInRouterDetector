@@ -27,6 +27,14 @@ class CommandGenerator():
     def walk(self, mibPath, func):
         return self.__funcMap(*self.__cmdGen.nextCmd(*self.__initCmdData(mibPath), lookupValues=True), func)
 
+    def getBulk(self, mibPath, func):
+        return self.__funcMap(*self.__cmdGen.bulkCmd(
+            self.__userData,
+            self.__target,
+            0,50,
+            cmdgen.MibVariable(*mibPath.split('.')),
+           lookupValues=True), func)
+
     def get(self, mibPath, func):
         return self.__funcMap(*self.__cmdGen.getCmd(*self.__initCmdData(mibPath), lookupValues=True), func)
     # SNMP commands end -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
