@@ -11,14 +11,6 @@ class Graph():
     def __init__(self):
         pass
 
-    def getTrace(self, **kwargs):
-        # init kwargs default value
-        kwargs['x'] = kwargs.get('x',[])
-        kwargs['y'] =kwargs.get('y',[])
-        kwargs['mode'] = kwargs.get('mode','lines+markers')
-        
-        return go.Scatter(kwargs)
-
     def getFigure(self, _data, _title):
         data = go.Data(_data)
         layout = go.Layout(title=_title)
@@ -26,6 +18,41 @@ class Graph():
 
     def plot(self, fig, title):
         py.plot(fig, filename=title)
+
+class TracePool():
+
+    def __init__(self, names):
+        self.__tracePool = {}
+        self.__dataPool = {}
+
+        idx = 0
+        for name in names:
+            self.__tracePool[name] = None
+            self.__dataPool[name] = {'x':[], 'y':[]}
+            idx += 1
+    
+    def getTrace(self, name, info):
+        # init kwargs default value
+        info['name'] = name
+        info['x'] = info.get('x',self.__dataPool[name]['x'])
+        info['y'] = info.get('y',self.__dataPool[name]['y'])
+        info['mode'] = info.get('mode','lines')
+        
+        return go.Scatter(info)
+
+    def addData(self, name, data):
+        for i in data:
+            if i in self.__dataPool[name]:
+                self.__dataPool[name][i] += data[i]
+            else:
+                self.__dataPool[name][i] = data[i]
+            
+
+    def __getitem__(self, name):
+        return self.__tracePool[name]
+
+    def __iter__(self):
+        return iter(self.__tracePool)
 
 
 class StreamPool():
@@ -47,7 +74,7 @@ class StreamPool():
 
     def getStream(self):
         streamID = self.__getStreamID()
-        
+
         stream = py.Stream(streamID)
         return stream
 
@@ -59,7 +86,7 @@ class StreamPool():
     def getStreamDict(self, name, maxPoints):
         return dict(token = self.__pool[name].stream_id, maxpoints=maxPoints)
 
-        
+
     def addStream(self, name, stream):
         self.__pool[name] = stream
 
@@ -85,4 +112,3 @@ class StreamPool():
 
     def __iter__(self):
         return iter(self.__pool)
-

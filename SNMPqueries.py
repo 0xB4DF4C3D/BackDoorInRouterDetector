@@ -21,6 +21,7 @@ class _SNMPqueries():
                     if(int(str(name).split('.')[-1]) in instances):
                         sum += int(val)
             return sum
+        
         return InAccumulateEx
 
 # To direct module access.

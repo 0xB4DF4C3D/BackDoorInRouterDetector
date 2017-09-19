@@ -1,0 +1,381 @@
+Python 3.6.2 (v3.6.2:5fd33b5, Jul  8 2017, 04:57:36) [MSC v.1900 64 bit (AMD64)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+================ RESTART: C:\Users\chemi\Desktop\snmp\main.py ================
+
+Warning (from warnings module):
+  File "C:\Program Files\Python36\lib\site-packages\paramiko\client.py", line 711
+    key.get_fingerprint())))
+UserWarning: Unknown ssh-rsa host key for 10.0.0.2: b'6401d4449c7f3adb2bb725c6e8b0616c'
+00:22:58
+ifOutOctets : 98320
+ifInOctets : 4779
+diff       : 93541
+variation  : 93541
+
+00:23:09
+ifOutOctets : 98500
+ifInOctets : 4779
+diff       : 93721
+variation  : 180
+
+00:23:19
+ifOutOctets : 98800
+ifInOctets : 4779
+diff       : 94021
+variation  : 300
+
+00:23:30
+ifOutOctets : 99040
+ifInOctets : 4779
+diff       : 94261
+variation  : 240
+
+00:23:41
+ifOutOctets : 114574
+ifInOctets : 5142
+diff       : 109432
+variation  : 15171
+
+00:23:51
+ifOutOctets : 114754
+ifInOctets : 5142
+diff       : 109612
+variation  : 180
+
+00:24:02
+ifOutOctets : 114934
+ifInOctets : 5142
+diff       : 109792
+variation  : 180
+
+00:24:12
+ifOutOctets : 115114
+ifInOctets : 5142
+diff       : 109972
+variation  : 180
+
+00:24:22
+ifOutOctets : 133726
+ifInOctets : 5142
+diff       : 128584
+variation  : 18612
+
+00:24:33
+ifOutOctets : 133906
+ifInOctets : 5142
+diff       : 128764
+variation  : 180
+
+00:24:43
+ifOutOctets : 134086
+ifInOctets : 5505
+diff       : 128581
+variation  : -183
+
+00:24:54
+ifOutOctets : 134266
+ifInOctets : 5505
+diff       : 128761
+variation  : 180
+
+00:25:04
+ifOutOctets : 149800
+ifInOctets : 5505
+diff       : 144295
+variation  : 15534
+
+00:25:14
+ifOutOctets : 149980
+ifInOctets : 5505
+diff       : 144475
+variation  : 180
+
+00:25:25
+ifOutOctets : 150160
+ifInOctets : 5505
+diff       : 144655
+variation  : 180
+
+00:25:35
+ifOutOctets : 150340
+ifInOctets : 5868
+diff       : 144472
+variation  : -183
+
+00:25:46
+ifOutOctets : 168952
+ifInOctets : 5868
+diff       : 163084
+variation  : 18612
+
+00:25:56
+ifOutOctets : 169132
+ifInOctets : 5868
+diff       : 163264
+variation  : 180
+
+00:26:07
+ifOutOctets : 169312
+ifInOctets : 5868
+diff       : 163444
+variation  : 180
+
+00:26:17
+ifOutOctets : 169492
+ifInOctets : 5868
+diff       : 163624
+variation  : 180
+
+00:26:27
+ifOutOctets : 185026
+ifInOctets : 5868
+diff       : 179158
+variation  : 15534
+
+00:26:38
+ifOutOctets : 185206
+ifInOctets : 6231
+diff       : 178975
+variation  : -183
+
+00:26:48
+ifOutOctets : 185386
+ifInOctets : 6231
+diff       : 179155
+variation  : 180
+
+00:26:59
+ifOutOctets : 185566
+ifInOctets : 6231
+diff       : 179335
+variation  : 180
+
+00:27:09
+ifOutOctets : 204238
+ifInOctets : 6231
+diff       : 198007
+variation  : 18672
+
+00:27:19
+ifOutOctets : 204478
+ifInOctets : 6231
+diff       : 198247
+variation  : 240
+
+00:27:30
+ifOutOctets : 204718
+ifInOctets : 6231
+diff       : 198487
+variation  : 240
+
+00:27:40
+ifOutOctets : 204898
+ifInOctets : 6594
+diff       : 198304
+variation  : -183
+
+00:27:51
+ifOutOctets : 220432
+ifInOctets : 6594
+diff       : 213838
+variation  : 15534
+
+00:28:01
+ifOutOctets : 220612
+ifInOctets : 6594
+diff       : 214018
+variation  : 180
+
+00:28:12
+ifOutOctets : 220792
+ifInOctets : 6594
+diff       : 214198
+variation  : 180
+
+00:28:22
+ifOutOctets : 220972
+ifInOctets : 6594
+diff       : 214378
+variation  : 180
+
+00:28:33
+ifOutOctets : 239584
+ifInOctets : 6594
+diff       : 232990
+variation  : 18612
+
+00:28:43
+ifOutOctets : 239764
+ifInOctets : 6957
+diff       : 232807
+variation  : -183
+
+00:28:53
+ifOutOctets : 239944
+ifInOctets : 6957
+diff       : 232987
+variation  : 180
+
+00:29:04
+ifOutOctets : 240124
+ifInOctets : 6957
+diff       : 233167
+variation  : 180
+
+00:29:14
+ifOutOctets : 255658
+ifInOctets : 6957
+diff       : 248701
+variation  : 15534
+
+00:29:25
+ifOutOctets : 255915
+ifInOctets : 6957
+diff       : 248958
+variation  : 257
+
+00:29:35
+ifOutOctets : 256215
+ifInOctets : 10570
+diff       : 245645
+variation  : -3313
+
+00:29:45
+ifOutOctets : 277235
+ifInOctets : 31410
+diff       : 245825
+variation  : 180
+
+00:29:56
+ifOutOctets : 318771
+ifInOctets : 52250
+diff       : 266521
+variation  : 20696
+
+00:30:06
+ifOutOctets : 339791
+ifInOctets : 73090
+diff       : 266701
+variation  : 180
+
+00:30:17
+ifOutOctets : 360811
+ifInOctets : 93930
+diff       : 266881
+variation  : 180
+
+00:30:27
+ifOutOctets : 381831
+ifInOctets : 114770
+diff       : 267061
+variation  : 180
+
+00:30:37
+ifOutOctets : 414037
+ifInOctets : 131805
+diff       : 282232
+variation  : 15171
+
+00:30:48
+ifOutOctets : 414217
+ifInOctets : 131805
+diff       : 282412
+variation  : 180
+
+00:30:58
+ifOutOctets : 414397
+ifInOctets : 131805
+diff       : 282592
+variation  : 180
+
+00:31:09
+ifOutOctets : 414577
+ifInOctets : 131805
+diff       : 282772
+variation  : 180
+
+00:31:19
+ifOutOctets : 433249
+ifInOctets : 131805
+diff       : 301444
+variation  : 18672
+
+00:31:29
+ifOutOctets : 433489
+ifInOctets : 131805
+diff       : 301684
+variation  : 240
+
+00:31:40
+ifOutOctets : 433729
+ifInOctets : 132168
+diff       : 301561
+variation  : -123
+
+00:31:50
+ifOutOctets : 433909
+ifInOctets : 132168
+diff       : 301741
+variation  : 180
+
+00:32:00
+ifOutOctets : 474563
+ifInOctets : 157304
+diff       : 317259
+variation  : 15518
+
+00:32:11
+ifOutOctets : 536943
+ifInOctets : 219504
+diff       : 317439
+variation  : 180
+
+00:32:21
+ifOutOctets : 599323
+ifInOctets : 281704
+diff       : 317619
+variation  : 180
+
+00:32:32
+ifOutOctets : 661703
+ifInOctets : 343904
+diff       : 317799
+variation  : 180
+
+00:32:42
+ifOutOctets : 742515
+ifInOctets : 406467
+diff       : 336048
+variation  : 18249
+
+00:32:53
+ifOutOctets : 804895
+ifInOctets : 468667
+diff       : 336228
+variation  : 180
+
+00:33:03
+ifOutOctets : 861055
+ifInOctets : 524647
+diff       : 336408
+variation  : 180
+
+00:33:13
+ifOutOctets : 861235
+ifInOctets : 524647
+diff       : 336588
+variation  : 180
+
+00:33:24
+ifOutOctets : 876769
+ifInOctets : 524647
+diff       : 352122
+variation  : 15534
+
+00:33:34
+ifOutOctets : 876949
+ifInOctets : 524647
+diff       : 352302
+variation  : 180
+

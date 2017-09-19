@@ -1,0 +1,1815 @@
+SNMP_ifInUcastPkts&ifOutUcastPkts logging start..
+22:58:06.411772
+ifInUcastPkts : 65
+ifOutUcastPkts : 334
+diff       : -269
+
+22:58:07.787416
+ifInUcastPkts : 65
+ifOutUcastPkts : 334
+diff       : -269
+
+22:58:09.187319
+ifInUcastPkts : 65
+ifOutUcastPkts : 334
+diff       : -269
+
+22:58:10.610103
+ifInUcastPkts : 65
+ifOutUcastPkts : 334
+diff       : -269
+
+22:58:11.998535
+ifInUcastPkts : 65
+ifOutUcastPkts : 336
+diff       : -271
+
+22:58:13.452070
+ifInUcastPkts : 65
+ifOutUcastPkts : 336
+diff       : -271
+
+22:58:14.875621
+ifInUcastPkts : 65
+ifOutUcastPkts : 336
+diff       : -271
+
+22:58:16.292639
+ifInUcastPkts : 65
+ifOutUcastPkts : 336
+diff       : -271
+
+22:58:17.692637
+ifInUcastPkts : 65
+ifOutUcastPkts : 336
+diff       : -271
+
+22:58:19.178772
+ifInUcastPkts : 65
+ifOutUcastPkts : 336
+diff       : -271
+
+22:58:20.578613
+ifInUcastPkts : 65
+ifOutUcastPkts : 336
+diff       : -271
+
+22:58:22.009155
+ifInUcastPkts : 65
+ifOutUcastPkts : 338
+diff       : -273
+
+22:58:23.433980
+ifInUcastPkts : 65
+ifOutUcastPkts : 338
+diff       : -273
+
+22:58:24.872164
+ifInUcastPkts : 65
+ifOutUcastPkts : 338
+diff       : -273
+
+22:58:26.273053
+ifInUcastPkts : 65
+ifOutUcastPkts : 338
+diff       : -273
+
+22:58:27.605938
+ifInUcastPkts : 65
+ifOutUcastPkts : 338
+diff       : -273
+
+22:58:28.997208
+ifInUcastPkts : 65
+ifOutUcastPkts : 338
+diff       : -273
+
+22:58:30.492186
+ifInUcastPkts : 65
+ifOutUcastPkts : 338
+diff       : -273
+
+22:58:31.939928
+ifInUcastPkts : 65
+ifOutUcastPkts : 340
+diff       : -275
+
+22:58:33.432901
+ifInUcastPkts : 65
+ifOutUcastPkts : 340
+diff       : -275
+
+22:58:34.869798
+ifInUcastPkts : 65
+ifOutUcastPkts : 340
+diff       : -275
+
+22:58:36.270751
+ifInUcastPkts : 65
+ifOutUcastPkts : 340
+diff       : -275
+
+22:58:37.671474
+ifInUcastPkts : 65
+ifOutUcastPkts : 340
+diff       : -275
+
+22:58:39.031900
+ifInUcastPkts : 65
+ifOutUcastPkts : 340
+diff       : -275
+
+22:58:40.462208
+ifInUcastPkts : 65
+ifOutUcastPkts : 340
+diff       : -275
+
+22:58:41.889203
+ifInUcastPkts : 65
+ifOutUcastPkts : 342
+diff       : -277
+
+22:58:43.340893
+ifInUcastPkts : 65
+ifOutUcastPkts : 342
+diff       : -277
+
+22:58:44.740417
+ifInUcastPkts : 65
+ifOutUcastPkts : 342
+diff       : -277
+
+22:58:46.119460
+ifInUcastPkts : 65
+ifOutUcastPkts : 342
+diff       : -277
+
+22:58:47.543744
+ifInUcastPkts : 65
+ifOutUcastPkts : 342
+diff       : -277
+
+22:58:49.034936
+ifInUcastPkts : 65
+ifOutUcastPkts : 342
+diff       : -277
+
+22:58:50.486863
+ifInUcastPkts : 65
+ifOutUcastPkts : 342
+diff       : -277
+
+22:58:51.900714
+ifInUcastPkts : 65
+ifOutUcastPkts : 344
+diff       : -279
+
+22:58:53.266238
+ifInUcastPkts : 65
+ifOutUcastPkts : 344
+diff       : -279
+
+22:58:54.616035
+ifInUcastPkts : 65
+ifOutUcastPkts : 344
+diff       : -279
+
+22:58:55.970734
+ifInUcastPkts : 65
+ifOutUcastPkts : 344
+diff       : -279
+
+22:58:57.475230
+ifInUcastPkts : 65
+ifOutUcastPkts : 344
+diff       : -279
+
+22:58:58.873797
+ifInUcastPkts : 65
+ifOutUcastPkts : 344
+diff       : -279
+
+22:59:00.355384
+ifInUcastPkts : 65
+ifOutUcastPkts : 344
+diff       : -279
+
+22:59:01.806057
+ifInUcastPkts : 65
+ifOutUcastPkts : 346
+diff       : -281
+
+22:59:03.265470
+ifInUcastPkts : 65
+ifOutUcastPkts : 346
+diff       : -281
+
+22:59:04.710746
+ifInUcastPkts : 65
+ifOutUcastPkts : 346
+diff       : -281
+
+22:59:06.122668
+ifInUcastPkts : 65
+ifOutUcastPkts : 346
+diff       : -281
+
+22:59:07.531029
+ifInUcastPkts : 65
+ifOutUcastPkts : 346
+diff       : -281
+
+22:59:08.884360
+ifInUcastPkts : 65
+ifOutUcastPkts : 346
+diff       : -281
+
+22:59:10.318899
+ifInUcastPkts : 65
+ifOutUcastPkts : 346
+diff       : -281
+
+22:59:11.669464
+ifInUcastPkts : 65
+ifOutUcastPkts : 348
+diff       : -283
+
+22:59:13.050057
+ifInUcastPkts : 65
+ifOutUcastPkts : 348
+diff       : -283
+
+22:59:14.472352
+ifInUcastPkts : 65
+ifOutUcastPkts : 348
+diff       : -283
+
+22:59:15.898201
+ifInUcastPkts : 65
+ifOutUcastPkts : 348
+diff       : -283
+
+22:59:17.334554
+ifInUcastPkts : 65
+ifOutUcastPkts : 348
+diff       : -283
+
+22:59:18.842704
+ifInUcastPkts : 65
+ifOutUcastPkts : 348
+diff       : -283
+
+22:59:20.236225
+ifInUcastPkts : 65
+ifOutUcastPkts : 348
+diff       : -283
+
+22:59:21.684855
+ifInUcastPkts : 65
+ifOutUcastPkts : 350
+diff       : -285
+
+22:59:23.087082
+ifInUcastPkts : 65
+ifOutUcastPkts : 350
+diff       : -285
+
+22:59:24.493290
+ifInUcastPkts : 65
+ifOutUcastPkts : 350
+diff       : -285
+
+22:59:25.849899
+ifInUcastPkts : 65
+ifOutUcastPkts : 350
+diff       : -285
+
+22:59:27.253278
+ifInUcastPkts : 65
+ifOutUcastPkts : 350
+diff       : -285
+
+22:59:28.618687
+ifInUcastPkts : 65
+ifOutUcastPkts : 350
+diff       : -285
+
+22:59:29.993322
+ifInUcastPkts : 65
+ifOutUcastPkts : 350
+diff       : -285
+
+22:59:31.340110
+ifInUcastPkts : 65
+ifOutUcastPkts : 352
+diff       : -287
+
+22:59:32.674431
+ifInUcastPkts : 65
+ifOutUcastPkts : 352
+diff       : -287
+
+22:59:34.049134
+ifInUcastPkts : 65
+ifOutUcastPkts : 352
+diff       : -287
+
+22:59:35.469162
+ifInUcastPkts : 65
+ifOutUcastPkts : 352
+diff       : -287
+
+22:59:36.951037
+ifInUcastPkts : 65
+ifOutUcastPkts : 352
+diff       : -287
+
+22:59:38.398587
+ifInUcastPkts : 65
+ifOutUcastPkts : 352
+diff       : -287
+
+22:59:39.840784
+ifInUcastPkts : 65
+ifOutUcastPkts : 352
+diff       : -287
+
+22:59:41.286094
+ifInUcastPkts : 65
+ifOutUcastPkts : 354
+diff       : -289
+
+22:59:42.758798
+ifInUcastPkts : 65
+ifOutUcastPkts : 354
+diff       : -289
+
+22:59:44.187981
+ifInUcastPkts : 65
+ifOutUcastPkts : 354
+diff       : -289
+
+22:59:45.660653
+ifInUcastPkts : 65
+ifOutUcastPkts : 354
+diff       : -289
+
+22:59:47.131931
+ifInUcastPkts : 65
+ifOutUcastPkts : 354
+diff       : -289
+
+22:59:48.588592
+ifInUcastPkts : 65
+ifOutUcastPkts : 354
+diff       : -289
+
+22:59:50.007706
+ifInUcastPkts : 65
+ifOutUcastPkts : 354
+diff       : -289
+
+22:59:51.449403
+ifInUcastPkts : 65
+ifOutUcastPkts : 356
+diff       : -291
+
+22:59:52.866205
+ifInUcastPkts : 65
+ifOutUcastPkts : 356
+diff       : -291
+
+22:59:54.345512
+ifInUcastPkts : 65
+ifOutUcastPkts : 356
+diff       : -291
+
+22:59:55.813681
+ifInUcastPkts : 65
+ifOutUcastPkts : 356
+diff       : -291
+
+22:59:57.289112
+ifInUcastPkts : 65
+ifOutUcastPkts : 356
+diff       : -291
+
+22:59:58.662324
+ifInUcastPkts : 65
+ifOutUcastPkts : 356
+diff       : -291
+
+23:00:00.085475
+ifInUcastPkts : 65
+ifOutUcastPkts : 356
+diff       : -291
+
+23:00:01.475059
+ifInUcastPkts : 65
+ifOutUcastPkts : 358
+diff       : -293
+
+23:00:02.934541
+ifInUcastPkts : 65
+ifOutUcastPkts : 358
+diff       : -293
+
+23:00:04.334313
+ifInUcastPkts : 65
+ifOutUcastPkts : 358
+diff       : -293
+
+23:00:05.693101
+ifInUcastPkts : 65
+ifOutUcastPkts : 358
+diff       : -293
+
+23:00:07.078754
+ifInUcastPkts : 65
+ifOutUcastPkts : 358
+diff       : -293
+
+23:00:08.535392
+ifInUcastPkts : 65
+ifOutUcastPkts : 358
+diff       : -293
+
+23:00:09.955517
+ifInUcastPkts : 65
+ifOutUcastPkts : 358
+diff       : -293
+
+23:00:11.407324
+ifInUcastPkts : 65
+ifOutUcastPkts : 360
+diff       : -295
+
+23:00:12.863699
+ifInUcastPkts : 65
+ifOutUcastPkts : 360
+diff       : -295
+
+23:00:14.250314
+ifInUcastPkts : 65
+ifOutUcastPkts : 360
+diff       : -295
+
+23:00:15.642763
+ifInUcastPkts : 65
+ifOutUcastPkts : 360
+diff       : -295
+
+23:00:17.052320
+ifInUcastPkts : 65
+ifOutUcastPkts : 360
+diff       : -295
+
+23:00:18.485740
+ifInUcastPkts : 65
+ifOutUcastPkts : 360
+diff       : -295
+
+23:00:19.891598
+ifInUcastPkts : 65
+ifOutUcastPkts : 360
+diff       : -295
+
+23:00:21.257975
+ifInUcastPkts : 65
+ifOutUcastPkts : 362
+diff       : -297
+
+23:00:22.677567
+ifInUcastPkts : 65
+ifOutUcastPkts : 362
+diff       : -297
+
+23:00:24.091920
+ifInUcastPkts : 65
+ifOutUcastPkts : 362
+diff       : -297
+
+23:00:25.550661
+ifInUcastPkts : 65
+ifOutUcastPkts : 362
+diff       : -297
+
+23:00:26.953699
+ifInUcastPkts : 65
+ifOutUcastPkts : 362
+diff       : -297
+
+23:00:28.349407
+ifInUcastPkts : 65
+ifOutUcastPkts : 362
+diff       : -297
+
+23:00:29.734581
+ifInUcastPkts : 65
+ifOutUcastPkts : 362
+diff       : -297
+
+23:00:31.129070
+ifInUcastPkts : 65
+ifOutUcastPkts : 364
+diff       : -299
+
+23:00:32.581809
+ifInUcastPkts : 65
+ifOutUcastPkts : 364
+diff       : -299
+
+23:00:34.092005
+ifInUcastPkts : 65
+ifOutUcastPkts : 364
+diff       : -299
+
+23:00:35.522650
+ifInUcastPkts : 65
+ifOutUcastPkts : 364
+diff       : -299
+
+23:00:36.999871
+ifInUcastPkts : 65
+ifOutUcastPkts : 364
+diff       : -299
+
+23:00:38.443212
+ifInUcastPkts : 65
+ifOutUcastPkts : 364
+diff       : -299
+
+23:00:39.832582
+ifInUcastPkts : 65
+ifOutUcastPkts : 364
+diff       : -299
+
+23:00:41.200460
+ifInUcastPkts : 65
+ifOutUcastPkts : 366
+diff       : -301
+
+23:00:42.605138
+ifInUcastPkts : 65
+ifOutUcastPkts : 366
+diff       : -301
+
+23:00:44.009023
+ifInUcastPkts : 65
+ifOutUcastPkts : 366
+diff       : -301
+
+23:00:45.429322
+ifInUcastPkts : 65
+ifOutUcastPkts : 366
+diff       : -301
+
+23:00:46.834884
+ifInUcastPkts : 65
+ifOutUcastPkts : 366
+diff       : -301
+
+23:00:48.231325
+ifInUcastPkts : 65
+ifOutUcastPkts : 366
+diff       : -301
+
+23:00:49.600706
+ifInUcastPkts : 65
+ifOutUcastPkts : 366
+diff       : -301
+
+23:00:50.984419
+ifInUcastPkts : 65
+ifOutUcastPkts : 368
+diff       : -303
+
+23:00:52.408939
+ifInUcastPkts : 65
+ifOutUcastPkts : 368
+diff       : -303
+
+23:00:53.824688
+ifInUcastPkts : 65
+ifOutUcastPkts : 368
+diff       : -303
+
+23:00:55.261038
+ifInUcastPkts : 65
+ifOutUcastPkts : 368
+diff       : -303
+
+23:00:56.666801
+ifInUcastPkts : 65
+ifOutUcastPkts : 368
+diff       : -303
+
+23:00:58.054386
+ifInUcastPkts : 65
+ifOutUcastPkts : 368
+diff       : -303
+
+23:00:59.430223
+ifInUcastPkts : 65
+ifOutUcastPkts : 368
+diff       : -303
+
+23:01:00.863494
+ifInUcastPkts : 65
+ifOutUcastPkts : 368
+diff       : -303
+
+23:01:02.242360
+ifInUcastPkts : 65
+ifOutUcastPkts : 370
+diff       : -305
+
+23:01:03.624876
+ifInUcastPkts : 65
+ifOutUcastPkts : 370
+diff       : -305
+
+23:01:05.049831
+ifInUcastPkts : 65
+ifOutUcastPkts : 370
+diff       : -305
+
+23:01:06.430515
+ifInUcastPkts : 65
+ifOutUcastPkts : 370
+diff       : -305
+
+23:01:07.776673
+ifInUcastPkts : 65
+ifOutUcastPkts : 370
+diff       : -305
+
+23:01:09.146006
+ifInUcastPkts : 65
+ifOutUcastPkts : 370
+diff       : -305
+
+23:01:10.528862
+ifInUcastPkts : 65
+ifOutUcastPkts : 370
+diff       : -305
+
+23:01:11.947141
+ifInUcastPkts : 65
+ifOutUcastPkts : 372
+diff       : -307
+
+23:01:13.356701
+ifInUcastPkts : 65
+ifOutUcastPkts : 372
+diff       : -307
+
+23:01:14.735319
+ifInUcastPkts : 65
+ifOutUcastPkts : 372
+diff       : -307
+
+23:01:16.094900
+ifInUcastPkts : 65
+ifOutUcastPkts : 372
+diff       : -307
+
+23:01:17.480290
+ifInUcastPkts : 65
+ifOutUcastPkts : 372
+diff       : -307
+
+23:01:18.866023
+ifInUcastPkts : 65
+ifOutUcastPkts : 372
+diff       : -307
+
+23:01:20.237580
+ifInUcastPkts : 65
+ifOutUcastPkts : 372
+diff       : -307
+
+23:01:21.610027
+ifInUcastPkts : 65
+ifOutUcastPkts : 374
+diff       : -309
+
+23:01:22.932089
+ifInUcastPkts : 65
+ifOutUcastPkts : 374
+diff       : -309
+
+23:01:24.308257
+ifInUcastPkts : 65
+ifOutUcastPkts : 374
+diff       : -309
+
+23:01:25.737216
+ifInUcastPkts : 65
+ifOutUcastPkts : 374
+diff       : -309
+
+23:01:27.089762
+ifInUcastPkts : 65
+ifOutUcastPkts : 374
+diff       : -309
+
+23:01:28.475013
+ifInUcastPkts : 65
+ifOutUcastPkts : 374
+diff       : -309
+
+23:01:29.922377
+ifInUcastPkts : 65
+ifOutUcastPkts : 374
+diff       : -309
+
+23:01:31.380310
+ifInUcastPkts : 65
+ifOutUcastPkts : 376
+diff       : -311
+
+23:01:32.835094
+ifInUcastPkts : 65
+ifOutUcastPkts : 376
+diff       : -311
+
+23:01:34.240483
+ifInUcastPkts : 65
+ifOutUcastPkts : 376
+diff       : -311
+
+23:01:35.702387
+ifInUcastPkts : 65
+ifOutUcastPkts : 376
+diff       : -311
+
+23:01:37.021895
+ifInUcastPkts : 65
+ifOutUcastPkts : 376
+diff       : -311
+
+23:01:38.479516
+ifInUcastPkts : 65
+ifOutUcastPkts : 376
+diff       : -311
+
+23:01:39.977995
+ifInUcastPkts : 65
+ifOutUcastPkts : 376
+diff       : -311
+
+23:01:41.379930
+ifInUcastPkts : 65
+ifOutUcastPkts : 378
+diff       : -313
+
+23:01:42.828768
+ifInUcastPkts : 65
+ifOutUcastPkts : 378
+diff       : -313
+
+23:01:44.269553
+ifInUcastPkts : 65
+ifOutUcastPkts : 378
+diff       : -313
+
+23:01:45.647326
+ifInUcastPkts : 65
+ifOutUcastPkts : 378
+diff       : -313
+
+23:01:47.047829
+ifInUcastPkts : 65
+ifOutUcastPkts : 378
+diff       : -313
+
+23:01:48.499822
+ifInUcastPkts : 65
+ifOutUcastPkts : 378
+diff       : -313
+
+23:01:49.876126
+ifInUcastPkts : 65
+ifOutUcastPkts : 378
+diff       : -313
+
+23:01:51.272017
+ifInUcastPkts : 65
+ifOutUcastPkts : 380
+diff       : -315
+
+23:01:52.721732
+ifInUcastPkts : 65
+ifOutUcastPkts : 380
+diff       : -315
+
+23:01:54.055089
+ifInUcastPkts : 65
+ifOutUcastPkts : 380
+diff       : -315
+
+23:01:55.479505
+ifInUcastPkts : 65
+ifOutUcastPkts : 380
+diff       : -315
+
+23:01:56.964490
+ifInUcastPkts : 65
+ifOutUcastPkts : 380
+diff       : -315
+
+23:01:58.404418
+ifInUcastPkts : 65
+ifOutUcastPkts : 380
+diff       : -315
+
+23:01:59.756896
+ifInUcastPkts : 65
+ifOutUcastPkts : 380
+diff       : -315
+
+23:02:01.178042
+ifInUcastPkts : 65
+ifOutUcastPkts : 382
+diff       : -317
+
+23:02:02.548433
+ifInUcastPkts : 65
+ifOutUcastPkts : 382
+diff       : -317
+
+23:02:03.935538
+ifInUcastPkts : 65
+ifOutUcastPkts : 382
+diff       : -317
+
+23:02:05.400265
+ifInUcastPkts : 65
+ifOutUcastPkts : 382
+diff       : -317
+
+23:02:06.872364
+ifInUcastPkts : 65
+ifOutUcastPkts : 382
+diff       : -317
+
+23:02:08.329058
+ifInUcastPkts : 65
+ifOutUcastPkts : 382
+diff       : -317
+
+23:02:09.748080
+ifInUcastPkts : 65
+ifOutUcastPkts : 382
+diff       : -317
+
+23:02:11.176195
+ifInUcastPkts : 65
+ifOutUcastPkts : 384
+diff       : -319
+
+23:02:12.583401
+ifInUcastPkts : 65
+ifOutUcastPkts : 384
+diff       : -319
+
+23:02:13.959979
+ifInUcastPkts : 65
+ifOutUcastPkts : 384
+diff       : -319
+
+23:02:15.397185
+ifInUcastPkts : 65
+ifOutUcastPkts : 384
+diff       : -319
+
+23:02:16.830301
+ifInUcastPkts : 65
+ifOutUcastPkts : 384
+diff       : -319
+
+23:02:18.284037
+ifInUcastPkts : 65
+ifOutUcastPkts : 384
+diff       : -319
+
+23:02:19.790039
+ifInUcastPkts : 65
+ifOutUcastPkts : 384
+diff       : -319
+
+23:02:21.154753
+ifInUcastPkts : 65
+ifOutUcastPkts : 386
+diff       : -321
+
+23:02:22.568036
+ifInUcastPkts : 65
+ifOutUcastPkts : 386
+diff       : -321
+
+23:02:23.952112
+ifInUcastPkts : 65
+ifOutUcastPkts : 386
+diff       : -321
+
+23:02:25.320644
+ifInUcastPkts : 65
+ifOutUcastPkts : 386
+diff       : -321
+
+23:02:26.684723
+ifInUcastPkts : 65
+ifOutUcastPkts : 386
+diff       : -321
+
+23:02:27.966086
+ifInUcastPkts : 65
+ifOutUcastPkts : 386
+diff       : -321
+
+23:02:29.421165
+ifInUcastPkts : 65
+ifOutUcastPkts : 386
+diff       : -321
+
+23:02:30.855061
+ifInUcastPkts : 65
+ifOutUcastPkts : 386
+diff       : -321
+
+23:02:32.218331
+ifInUcastPkts : 65
+ifOutUcastPkts : 388
+diff       : -323
+
+23:02:33.600183
+ifInUcastPkts : 65
+ifOutUcastPkts : 388
+diff       : -323
+
+23:02:35.008157
+ifInUcastPkts : 65
+ifOutUcastPkts : 388
+diff       : -323
+
+23:02:36.460207
+ifInUcastPkts : 65
+ifOutUcastPkts : 388
+diff       : -323
+
+23:02:37.839033
+ifInUcastPkts : 65
+ifOutUcastPkts : 388
+diff       : -323
+
+23:02:39.279515
+ifInUcastPkts : 65
+ifOutUcastPkts : 388
+diff       : -323
+
+23:02:40.690318
+ifInUcastPkts : 65
+ifOutUcastPkts : 388
+diff       : -323
+
+23:02:42.182748
+ifInUcastPkts : 65
+ifOutUcastPkts : 390
+diff       : -325
+
+23:02:43.595838
+ifInUcastPkts : 65
+ifOutUcastPkts : 390
+diff       : -325
+
+23:02:45.041921
+ifInUcastPkts : 65
+ifOutUcastPkts : 390
+diff       : -325
+
+23:02:46.470174
+ifInUcastPkts : 65
+ifOutUcastPkts : 390
+diff       : -325
+
+23:02:47.880756
+ifInUcastPkts : 65
+ifOutUcastPkts : 390
+diff       : -325
+
+23:02:49.288346
+ifInUcastPkts : 65
+ifOutUcastPkts : 390
+diff       : -325
+
+23:02:50.676538
+ifInUcastPkts : 65
+ifOutUcastPkts : 390
+diff       : -325
+
+23:02:52.053595
+ifInUcastPkts : 65
+ifOutUcastPkts : 392
+diff       : -327
+
+23:02:53.430190
+ifInUcastPkts : 65
+ifOutUcastPkts : 392
+diff       : -327
+
+23:02:54.845557
+ifInUcastPkts : 65
+ifOutUcastPkts : 392
+diff       : -327
+
+23:02:56.258264
+ifInUcastPkts : 65
+ifOutUcastPkts : 392
+diff       : -327
+
+23:02:57.622444
+ifInUcastPkts : 65
+ifOutUcastPkts : 392
+diff       : -327
+
+23:02:58.970570
+ifInUcastPkts : 65
+ifOutUcastPkts : 392
+diff       : -327
+
+23:03:00.347951
+ifInUcastPkts : 65
+ifOutUcastPkts : 392
+diff       : -327
+
+23:03:01.724277
+ifInUcastPkts : 65
+ifOutUcastPkts : 394
+diff       : -329
+
+23:03:03.129654
+ifInUcastPkts : 65
+ifOutUcastPkts : 394
+diff       : -329
+
+23:03:04.649747
+ifInUcastPkts : 65
+ifOutUcastPkts : 394
+diff       : -329
+
+23:03:06.073666
+ifInUcastPkts : 65
+ifOutUcastPkts : 394
+diff       : -329
+
+23:03:07.579724
+ifInUcastPkts : 65
+ifOutUcastPkts : 394
+diff       : -329
+
+23:03:09.018709
+ifInUcastPkts : 65
+ifOutUcastPkts : 394
+diff       : -329
+
+23:03:10.346269
+ifInUcastPkts : 65
+ifOutUcastPkts : 394
+diff       : -329
+
+23:03:11.839243
+ifInUcastPkts : 65
+ifOutUcastPkts : 396
+diff       : -331
+
+23:03:13.272139
+ifInUcastPkts : 65
+ifOutUcastPkts : 396
+diff       : -331
+
+23:03:14.669015
+ifInUcastPkts : 65
+ifOutUcastPkts : 396
+diff       : -331
+
+23:03:16.192098
+ifInUcastPkts : 65
+ifOutUcastPkts : 396
+diff       : -331
+
+23:03:17.578991
+ifInUcastPkts : 65
+ifOutUcastPkts : 396
+diff       : -331
+
+23:03:18.922235
+ifInUcastPkts : 65
+ifOutUcastPkts : 396
+diff       : -331
+
+23:03:20.344165
+ifInUcastPkts : 65
+ifOutUcastPkts : 396
+diff       : -331
+
+23:03:21.749326
+ifInUcastPkts : 65
+ifOutUcastPkts : 398
+diff       : -333
+
+23:03:23.238023
+ifInUcastPkts : 65
+ifOutUcastPkts : 398
+diff       : -333
+
+23:03:24.695552
+ifInUcastPkts : 65
+ifOutUcastPkts : 398
+diff       : -333
+
+23:03:26.147710
+ifInUcastPkts : 65
+ifOutUcastPkts : 398
+diff       : -333
+
+23:03:27.550447
+ifInUcastPkts : 65
+ifOutUcastPkts : 398
+diff       : -333
+
+23:03:28.944657
+ifInUcastPkts : 65
+ifOutUcastPkts : 398
+diff       : -333
+
+23:03:30.295294
+ifInUcastPkts : 65
+ifOutUcastPkts : 398
+diff       : -333
+
+23:03:31.695095
+ifInUcastPkts : 65
+ifOutUcastPkts : 400
+diff       : -335
+
+23:03:33.114103
+ifInUcastPkts : 65
+ifOutUcastPkts : 400
+diff       : -335
+
+23:03:34.534567
+ifInUcastPkts : 65
+ifOutUcastPkts : 400
+diff       : -335
+
+23:03:36.034724
+ifInUcastPkts : 65
+ifOutUcastPkts : 400
+diff       : -335
+
+23:03:37.432515
+ifInUcastPkts : 65
+ifOutUcastPkts : 400
+diff       : -335
+
+23:03:38.852809
+ifInUcastPkts : 65
+ifOutUcastPkts : 400
+diff       : -335
+
+23:03:40.240064
+ifInUcastPkts : 65
+ifOutUcastPkts : 400
+diff       : -335
+
+23:03:41.676111
+ifInUcastPkts : 65
+ifOutUcastPkts : 402
+diff       : -337
+
+23:03:43.014836
+ifInUcastPkts : 65
+ifOutUcastPkts : 402
+diff       : -337
+
+23:03:44.354509
+ifInUcastPkts : 65
+ifOutUcastPkts : 402
+diff       : -337
+
+23:03:45.717653
+ifInUcastPkts : 65
+ifOutUcastPkts : 402
+diff       : -337
+
+23:03:47.091905
+ifInUcastPkts : 65
+ifOutUcastPkts : 402
+diff       : -337
+
+23:03:48.488416
+ifInUcastPkts : 65
+ifOutUcastPkts : 402
+diff       : -337
+
+23:03:49.857963
+ifInUcastPkts : 65
+ifOutUcastPkts : 402
+diff       : -337
+
+23:03:51.255152
+ifInUcastPkts : 65
+ifOutUcastPkts : 404
+diff       : -339
+
+23:03:52.649548
+ifInUcastPkts : 65
+ifOutUcastPkts : 404
+diff       : -339
+
+23:03:54.023901
+ifInUcastPkts : 65
+ifOutUcastPkts : 404
+diff       : -339
+
+23:03:55.412303
+ifInUcastPkts : 65
+ifOutUcastPkts : 404
+diff       : -339
+
+23:03:56.779868
+ifInUcastPkts : 65
+ifOutUcastPkts : 404
+diff       : -339
+
+23:03:58.197838
+ifInUcastPkts : 65
+ifOutUcastPkts : 404
+diff       : -339
+
+23:03:59.655155
+ifInUcastPkts : 65
+ifOutUcastPkts : 404
+diff       : -339
+
+23:04:01.178214
+ifInUcastPkts : 65
+ifOutUcastPkts : 406
+diff       : -341
+
+23:04:02.647074
+ifInUcastPkts : 65
+ifOutUcastPkts : 406
+diff       : -341
+
+23:04:04.042652
+ifInUcastPkts : 65
+ifOutUcastPkts : 406
+diff       : -341
+
+23:04:05.537497
+ifInUcastPkts : 65
+ifOutUcastPkts : 406
+diff       : -341
+
+23:04:06.897114
+ifInUcastPkts : 65
+ifOutUcastPkts : 406
+diff       : -341
+
+23:04:08.249432
+ifInUcastPkts : 65
+ifOutUcastPkts : 406
+diff       : -341
+
+23:04:09.624789
+ifInUcastPkts : 65
+ifOutUcastPkts : 406
+diff       : -341
+
+23:04:11.012158
+ifInUcastPkts : 65
+ifOutUcastPkts : 408
+diff       : -343
+
+23:04:12.407165
+ifInUcastPkts : 65
+ifOutUcastPkts : 408
+diff       : -343
+
+23:04:13.887244
+ifInUcastPkts : 65
+ifOutUcastPkts : 408
+diff       : -343
+
+23:04:15.354016
+ifInUcastPkts : 65
+ifOutUcastPkts : 408
+diff       : -343
+
+23:04:16.845958
+ifInUcastPkts : 65
+ifOutUcastPkts : 408
+diff       : -343
+
+23:04:18.364535
+ifInUcastPkts : 65
+ifOutUcastPkts : 408
+diff       : -343
+
+23:04:19.805561
+ifInUcastPkts : 65
+ifOutUcastPkts : 408
+diff       : -343
+
+23:04:21.228343
+ifInUcastPkts : 65
+ifOutUcastPkts : 410
+diff       : -345
+
+23:04:22.624147
+ifInUcastPkts : 65
+ifOutUcastPkts : 410
+diff       : -345
+
+23:04:24.002259
+ifInUcastPkts : 65
+ifOutUcastPkts : 410
+diff       : -345
+
+23:04:25.376126
+ifInUcastPkts : 65
+ifOutUcastPkts : 410
+diff       : -345
+
+23:04:26.726001
+ifInUcastPkts : 65
+ifOutUcastPkts : 410
+diff       : -345
+
+23:04:28.079644
+ifInUcastPkts : 65
+ifOutUcastPkts : 410
+diff       : -345
+
+23:04:29.577889
+ifInUcastPkts : 65
+ifOutUcastPkts : 410
+diff       : -345
+
+23:04:30.997163
+ifInUcastPkts : 65
+ifOutUcastPkts : 410
+diff       : -345
+
+23:04:32.417055
+ifInUcastPkts : 65
+ifOutUcastPkts : 412
+diff       : -347
+
+23:04:33.952955
+ifInUcastPkts : 65
+ifOutUcastPkts : 412
+diff       : -347
+
+23:04:35.388477
+ifInUcastPkts : 65
+ifOutUcastPkts : 412
+diff       : -347
+
+23:04:36.841050
+ifInUcastPkts : 65
+ifOutUcastPkts : 412
+diff       : -347
+
+23:04:38.274362
+ifInUcastPkts : 65
+ifOutUcastPkts : 412
+diff       : -347
+
+23:04:39.560848
+ifInUcastPkts : 65
+ifOutUcastPkts : 412
+diff       : -347
+
+23:04:41.161758
+ifInUcastPkts : 65
+ifOutUcastPkts : 414
+diff       : -349
+
+23:04:42.574684
+ifInUcastPkts : 65
+ifOutUcastPkts : 414
+diff       : -349
+
+23:04:44.107261
+ifInUcastPkts : 65
+ifOutUcastPkts : 414
+diff       : -349
+
+23:04:45.599815
+ifInUcastPkts : 65
+ifOutUcastPkts : 414
+diff       : -349
+
+23:04:47.047037
+ifInUcastPkts : 65
+ifOutUcastPkts : 414
+diff       : -349
+
+23:04:48.547127
+ifInUcastPkts : 65
+ifOutUcastPkts : 414
+diff       : -349
+
+23:04:49.982659
+ifInUcastPkts : 65
+ifOutUcastPkts : 414
+diff       : -349
+
+23:04:51.371014
+ifInUcastPkts : 65
+ifOutUcastPkts : 416
+diff       : -351
+
+23:04:52.778999
+ifInUcastPkts : 65
+ifOutUcastPkts : 416
+diff       : -351
+
+23:04:54.212954
+ifInUcastPkts : 65
+ifOutUcastPkts : 416
+diff       : -351
+
+23:04:55.545997
+ifInUcastPkts : 65
+ifOutUcastPkts : 416
+diff       : -351
+
+23:04:57.015468
+ifInUcastPkts : 65
+ifOutUcastPkts : 416
+diff       : -351
+
+23:04:58.656830
+ifInUcastPkts : 65
+ifOutUcastPkts : 416
+diff       : -351
+
+23:05:00.135857
+ifInUcastPkts : 65
+ifOutUcastPkts : 416
+diff       : -351
+
+23:05:01.434867
+ifInUcastPkts : 65
+ifOutUcastPkts : 418
+diff       : -353
+
+23:05:02.748859
+ifInUcastPkts : 65
+ifOutUcastPkts : 418
+diff       : -353
+
+23:05:04.155602
+ifInUcastPkts : 65
+ifOutUcastPkts : 418
+diff       : -353
+
+23:05:05.568924
+ifInUcastPkts : 65
+ifOutUcastPkts : 418
+diff       : -353
+
+23:05:07.018066
+ifInUcastPkts : 65
+ifOutUcastPkts : 418
+diff       : -353
+
+23:05:08.531666
+ifInUcastPkts : 65
+ifOutUcastPkts : 418
+diff       : -353
+
+23:05:09.944566
+ifInUcastPkts : 65
+ifOutUcastPkts : 418
+diff       : -353
+
+23:05:11.365903
+ifInUcastPkts : 65
+ifOutUcastPkts : 420
+diff       : -355
+
+23:05:12.902916
+ifInUcastPkts : 65
+ifOutUcastPkts : 420
+diff       : -355
+
+23:05:14.242577
+ifInUcastPkts : 65
+ifOutUcastPkts : 420
+diff       : -355
+
+23:05:15.616429
+ifInUcastPkts : 65
+ifOutUcastPkts : 420
+diff       : -355
+
+23:05:17.013304
+ifInUcastPkts : 65
+ifOutUcastPkts : 420
+diff       : -355
+
+23:05:18.423260
+ifInUcastPkts : 65
+ifOutUcastPkts : 420
+diff       : -355
+
+23:05:19.804434
+ifInUcastPkts : 65
+ifOutUcastPkts : 420
+diff       : -355
+
+23:05:21.199370
+ifInUcastPkts : 65
+ifOutUcastPkts : 422
+diff       : -357
+
+23:05:22.616036
+ifInUcastPkts : 65
+ifOutUcastPkts : 422
+diff       : -357
+
+23:05:23.973493
+ifInUcastPkts : 65
+ifOutUcastPkts : 422
+diff       : -357
+
+23:05:25.317269
+ifInUcastPkts : 65
+ifOutUcastPkts : 422
+diff       : -357
+
+23:05:26.733524
+ifInUcastPkts : 65
+ifOutUcastPkts : 422
+diff       : -357
+
+23:05:28.115814
+ifInUcastPkts : 65
+ifOutUcastPkts : 422
+diff       : -357
+
+23:05:29.490170
+ifInUcastPkts : 65
+ifOutUcastPkts : 422
+diff       : -357
+
+23:05:30.868627
+ifInUcastPkts : 65
+ifOutUcastPkts : 422
+diff       : -357
+
+23:05:32.289510
+ifInUcastPkts : 65
+ifOutUcastPkts : 424
+diff       : -359
+
+23:05:33.729511
+ifInUcastPkts : 65
+ifOutUcastPkts : 424
+diff       : -359
+
+23:05:35.123454
+ifInUcastPkts : 65
+ifOutUcastPkts : 424
+diff       : -359
+
+23:05:36.575029
+ifInUcastPkts : 65
+ifOutUcastPkts : 424
+diff       : -359
+
+23:05:37.989868
+ifInUcastPkts : 65
+ifOutUcastPkts : 424
+diff       : -359
+
+23:05:39.448339
+ifInUcastPkts : 65
+ifOutUcastPkts : 424
+diff       : -359
+
+23:05:40.956900
+ifInUcastPkts : 65
+ifOutUcastPkts : 424
+diff       : -359
+
+23:05:42.375645
+ifInUcastPkts : 65
+ifOutUcastPkts : 426
+diff       : -361
+
+23:05:43.882702
+ifInUcastPkts : 65
+ifOutUcastPkts : 426
+diff       : -361
+
+23:05:45.266912
+ifInUcastPkts : 65
+ifOutUcastPkts : 426
+diff       : -361
+
+23:05:46.662238
+ifInUcastPkts : 65
+ifOutUcastPkts : 426
+diff       : -361
+
+23:05:47.968221
+ifInUcastPkts : 65
+ifOutUcastPkts : 426
+diff       : -361
+
+23:05:49.364985
+ifInUcastPkts : 65
+ifOutUcastPkts : 426
+diff       : -361
+
+23:05:50.850953
+ifInUcastPkts : 65
+ifOutUcastPkts : 426
+diff       : -361
+
+23:05:52.245373
+ifInUcastPkts : 65
+ifOutUcastPkts : 428
+diff       : -363
+
+23:05:53.780305
+ifInUcastPkts : 65
+ifOutUcastPkts : 428
+diff       : -363
+
+23:05:55.196539
+ifInUcastPkts : 65
+ifOutUcastPkts : 428
+diff       : -363
+
+23:05:56.631932
+ifInUcastPkts : 65
+ifOutUcastPkts : 428
+diff       : -363
+
+23:05:58.088140
+ifInUcastPkts : 65
+ifOutUcastPkts : 428
+diff       : -363
+
+23:05:59.514837
+ifInUcastPkts : 65
+ifOutUcastPkts : 428
+diff       : -363
+
+23:06:01.024048
+ifInUcastPkts : 65
+ifOutUcastPkts : 428
+diff       : -363
+
+23:06:02.465256
+ifInUcastPkts : 65
+ifOutUcastPkts : 430
+diff       : -365
+
+23:06:03.919494
+ifInUcastPkts : 65
+ifOutUcastPkts : 430
+diff       : -365
+
+23:06:05.406576
+ifInUcastPkts : 65
+ifOutUcastPkts : 430
+diff       : -365
+
+23:06:06.806899
+ifInUcastPkts : 65
+ifOutUcastPkts : 430
+diff       : -365
+
+23:06:08.199147
+ifInUcastPkts : 65
+ifOutUcastPkts : 430
+diff       : -365
+
+23:06:09.549698
+ifInUcastPkts : 65
+ifOutUcastPkts : 430
+diff       : -365
+
+23:06:10.989526
+ifInUcastPkts : 65
+ifOutUcastPkts : 430
+diff       : -365
+
+23:06:12.425852
+ifInUcastPkts : 67
+ifOutUcastPkts : 438
+diff       : -371
+
+23:06:13.812064
+ifInUcastPkts : 67
+ifOutUcastPkts : 438
+diff       : -371
+
+23:06:15.188451
+ifInUcastPkts : 67
+ifOutUcastPkts : 438
+diff       : -371
+
+23:06:16.609817
+ifInUcastPkts : 67
+ifOutUcastPkts : 438
+diff       : -371
+
+23:06:17.976022
+ifInUcastPkts : 67
+ifOutUcastPkts : 438
+diff       : -371
+
+23:06:19.335293
+ifInUcastPkts : 67
+ifOutUcastPkts : 438
+diff       : -371
+
+23:06:20.762782
+ifInUcastPkts : 67
+ifOutUcastPkts : 438
+diff       : -371
+
+23:06:22.174979
+ifInUcastPkts : 75
+ifOutUcastPkts : 448
+diff       : -373
+
+23:06:23.620005
+ifInUcastPkts : 75
+ifOutUcastPkts : 448
+diff       : -373
+
+23:06:25.044840
+ifInUcastPkts : 75
+ifOutUcastPkts : 448
+diff       : -373
+
+23:06:26.543730
+ifInUcastPkts : 75
+ifOutUcastPkts : 448
+diff       : -373
+
+23:06:27.959670
+ifInUcastPkts : 75
+ifOutUcastPkts : 448
+diff       : -373
+
+23:06:29.368693
+ifInUcastPkts : 75
+ifOutUcastPkts : 448
+diff       : -373
+
+23:06:30.793770
+ifInUcastPkts : 75
+ifOutUcastPkts : 448
+diff       : -373
+
+23:06:32.177999
+ifInUcastPkts : 85
+ifOutUcastPkts : 460
+diff       : -375
+
+23:06:33.641908
+ifInUcastPkts : 85
+ifOutUcastPkts : 460
+diff       : -375
+
+23:06:35.098712
+ifInUcastPkts : 85
+ifOutUcastPkts : 460
+diff       : -375
+
+23:06:36.440224
+ifInUcastPkts : 85
+ifOutUcastPkts : 460
+diff       : -375
+
+23:06:37.788337
+ifInUcastPkts : 85
+ifOutUcastPkts : 460
+diff       : -375
+
+23:06:39.212630
+ifInUcastPkts : 85
+ifOutUcastPkts : 460
+diff       : -375
