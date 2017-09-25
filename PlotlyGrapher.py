@@ -11,9 +11,9 @@ class Graph():
     def __init__(self):
         pass
 
-    def getFigure(self, _data, _title):
+    def getFigure(self, _data, _title, **kwargs):
         data = go.Data(_data)
-        layout = go.Layout(title=_title)
+        layout = go.Layout(title=_title,**kwargs)
         return go.Figure(data=data, layout=layout)
 
     def plot(self, fig, title):
@@ -25,20 +25,13 @@ class TracePool():
         self.__tracePool = {}
         self.__dataPool = {}
 
-        idx = 0
         for name in names:
             self.__tracePool[name] = None
             self.__dataPool[name] = {'x':[], 'y':[]}
-            idx += 1
+
     
     def getTrace(self, name, info):
-        # init kwargs default value
-        info['name'] = name
-        info['x'] = info.get('x',self.__dataPool[name]['x'])
-        info['y'] = info.get('y',self.__dataPool[name]['y'])
-        info['mode'] = info.get('mode','lines')
-        
-        return go.Scatter(info)
+        return go.Scatter({**info,'mode':'lines','name':name, **self.__dataPool[name]})
 
     def addData(self, name, data):
         for i in data:
@@ -47,6 +40,8 @@ class TracePool():
             else:
                 self.__dataPool[name][i] = data[i]
             
+    def delDataElement(self, name, dataName, idx):
+        del self.__dataPool[name][dataName][idx]
 
     def __getitem__(self, name):
         return self.__tracePool[name]
@@ -54,6 +49,33 @@ class TracePool():
     def __iter__(self):
         return iter(self.__tracePool)
 
+class AnnotationList():
+
+    def __init__(self, **kwargs):
+        self.__setting = {
+                          **dict(
+                              xref='x',
+                              yref='y',
+                              showarrow=True,
+                              arrowhead=7,
+                              ax=0,
+                              ay=-40
+                              ),
+                          **kwargs
+                          }
+        self.__annotationList = []
+
+    def addAnnotation(self, x, y, text, **kwargs):
+        self.__annotationList += [{
+            **dict(
+            x=x,
+            y=y,
+            text=text),
+            **self.__setting, **kwargs
+                                 }]
+
+    def getAnnotationList(self):
+        return self.__annotationList
 
 class StreamPool():
     """
