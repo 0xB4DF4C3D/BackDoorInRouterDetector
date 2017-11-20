@@ -1,0 +1,10 @@
+Nov 20 21:22:19.709 HYPERVISOR: Release 0.2.14-x86/Windows (tag 2014092320)
+Nov 20 21:22:19.710 HYPERVISOR: Started on IP = 169.254.62.95, TCP port = 54068.
+Nov 20 21:22:19.857 HYPERVISOR: exec_cmd: hypervisor version 
+Nov 20 21:22:19.865 HYPERVISOR: exec_cmd: hypervisor working_dir C:\Users\chemi\GNS3\projects\acl\project-files\dynamips 
+Nov 20 21:22:19.871 GENERAL: working_dir=C:\Users\chemi\GNS3\projects\acl\project-files\dynamips
+Nov 20 21:22:19.874 HYPERVISOR: exec_cmd: ethsw create SW3 
+Nov 20 21:22:24.129 HYPERVISOR: exec_cmd: ethsw delete SW3 
+Nov 20 21:22:24.161 HYPERVISOR: exec_cmd: hypervisor stop 
+Nov 20 21:22:24.342 HYPERVISOR: Stopped.
+Nov 20 21:22:24.342 GENERAL: reset done.
