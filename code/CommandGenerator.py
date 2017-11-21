@@ -11,10 +11,10 @@ class CommandGenerator():
     General functions for SNMP command.
 
     """
-    def __init__(self, name, key, agentIP, agentPort=161, SNMPversion=3):
+    def __init__(self, name, authKey, privKey, agentIP, agentPort=161, SNMPversion=3):
         self.__cmdGen = cmdgen.CommandGenerator()
         if SNMPversion == 3:
-            self.__userData = cmdgen.UsmUserData(name, key, key,
+            self.__userData = cmdgen.UsmUserData(name, authKey, privKey,
                            authProtocol=usmHMACSHAAuthProtocol,
                            privProtocol=usmDESPrivProtocol)
         else:

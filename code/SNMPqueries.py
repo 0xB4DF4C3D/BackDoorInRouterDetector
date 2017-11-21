@@ -24,5 +24,13 @@ class _SNMPqueries():
         
         return InAccumulateEx
 
+    def byDict(self, tab):
+        res = {}
+        for row in tab:
+            for name, val in row[:2]:
+                interfaceNumber = str(name).split('.')[-1]
+                res[interfaceNumber] = int(val)
+        return res
+
 # To direct module access.
 sys.modules[__name__] = _SNMPqueries()
