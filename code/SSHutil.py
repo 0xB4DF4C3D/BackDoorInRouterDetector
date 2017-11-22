@@ -10,7 +10,7 @@ class SSH():
 
         self.__client = pm.SSHClient()
         self.__client.load_system_host_keys()
-        self.__client.set_missing_host_key_policy(pm.WarningPolicy)
+        self.__client.set_missing_host_key_policy(pm.AutoAddPolicy())
         self.__client.connect(self.__hostname, self.__port, self.__username, self.__password)
 
         self.__channel = self.__client.invoke_shell()

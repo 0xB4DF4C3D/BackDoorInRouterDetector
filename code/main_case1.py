@@ -10,6 +10,7 @@ def initSSH(host, username, password):
     ssh.connect(host, username=username, password=password)
 
     return ssh
+input('s')
 
 # for multiple ssh connection
 def annotationThread(host, username, password, cmdList, annotationList, x, isEnd):

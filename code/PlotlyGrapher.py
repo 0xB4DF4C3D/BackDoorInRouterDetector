@@ -102,7 +102,7 @@ class StreamPool():
 
     def freeStream(self, stream):
         stream.close()
-        self.__freeStreamToken(stream)
+        self.__freeStreamID(stream)
 
 
     def getStreamDict(self, name, maxPoints):
